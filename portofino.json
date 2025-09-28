@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A1F4E84C-1111-1111-1111-111111111111",
+    "zona": "Portofino",
+    "poi": [
+      {
+        "id": "B1F4E84C-2222-2222-2222-222222222222",
+        "nome": "Faro di Portofino",
+        "lat": 44.3016,
+        "lon": 9.2150,
+        "descrizione": "Il famoso Faro di Portofino, punto panoramico incredibile.",
+        "immagineURL": "https://media-cdn.tripadvisor.com/media/photo-s/14/63/00/eb/faro-di-portofino.jpg",
+        "urlUfficiale": "https://www.comune.portofino.ge.it"
+      },
+      {
+        "id": "B1F4E84C-3333-3333-3333-333333333333",
+        "nome": "Splendido Mare",
+        "lat": 44.3038,
+        "lon": 9.2090,
+        "descrizione": "Hotel Splendido Mare, uno dei luoghi più iconici di Portofino.",
+        "immagineURL": "https://tse1.mm.bing.net/th/id/OIP.1CkycmE0uvxy8N5FVDN9fAHaHC?pid=Api&P=0&h=180",
+        "urlUfficiale": "https://www.belmond.com/hotels/europe/italy/portofino/belmond-hotel-splendido/"
+      }
+    ]
+  }
+]
