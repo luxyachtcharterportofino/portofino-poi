@@ -43,5 +43,32 @@
         "urlUfficiale": "https://www.parconazionale5terre.it/"
       }
     ]
+  },
+  {
+    "id": "zona3",
+    "zona": "Portovenere e isole Palmaria, Tino, Tinetto",
+    "latCentro": 44.0490,
+    "lonCentro": 9.8360,
+    "raggioKm": 15,
+    "poi": [
+      {
+        "id": "portovenere",
+        "nome": "Portovenere",
+        "lat": 44.050,
+        "lon": 9.836,
+        "descrizione": "Suggestivo borgo marinaro patrimonio UNESCO, di fronte alle isole Palmaria, Tino e Tinetto.",
+        "immagineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Portovenere_view.jpg/800px-Portovenere_view.jpg",
+        "urlUfficiale": "https://www.comune.portovenere.sp.it/"
+      },
+      {
+        "id": "isola-palmaria",
+        "nome": "Isola Palmaria",
+        "lat": 44.043,
+        "lon": 9.830,
+        "descrizione": "La più grande delle tre isole, natura selvaggia e sentieri panoramici.",
+        "immagineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Palmaria_island.jpg/800px-Palmaria_island.jpg",
+        "urlUfficiale": null
+      }
+    ]
   }
 ]
