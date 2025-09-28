@@ -1,25 +1,55 @@
 [
   {
-    "id": "A1F4E84C-1111-1111-1111-111111111111",
-    "zona": "Portofino",
+    "id": "ZONA-PORTOFINO",
+    "zona": "Portofino - Tigullio",
+    "latCentro": 44.3160,
+    "lonCentro": 9.2000,
+    "raggioKm": 15,
     "poi": [
       {
-        "id": "B1F4E84C-2222-2222-2222-222222222222",
+        "id": "POI-FARO",
         "nome": "Faro di Portofino",
         "lat": 44.3016,
         "lon": 9.2150,
         "descrizione": "Il famoso Faro di Portofino, punto panoramico incredibile.",
         "immagineURL": "https://media-cdn.tripadvisor.com/media/photo-s/14/63/00/eb/faro-di-portofino.jpg",
         "urlUfficiale": "https://www.comune.portofino.ge.it"
-      },
+      }
+    ]
+  },
+  {
+    "id": "ZONA-CINQUE-TERRE",
+    "zona": "Cinque Terre",
+    "latCentro": 44.1300,
+    "lonCentro": 9.7000,
+    "raggioKm": 20,
+    "poi": [
       {
-        "id": "B1F4E84C-3333-3333-3333-333333333333",
-        "nome": "Splendido Mare",
-        "lat": 44.3038,
-        "lon": 9.2090,
-        "descrizione": "Hotel Splendido Mare, uno dei luoghi più iconici di Portofino.",
-        "immagineURL": "https://tse1.mm.bing.net/th/id/OIP.1CkycmE0uvxy8N5FVDN9fAHaHC?pid=Api&P=0&h=180",
-        "urlUfficiale": "https://www.belmond.com/hotels/europe/italy/portofino/belmond-hotel-splendido/"
+        "id": "POI-MANAROLA",
+        "nome": "Manarola",
+        "lat": 44.1070,
+        "lon": 9.7277,
+        "descrizione": "Uno dei borghi più iconici delle Cinque Terre.",
+        "immagineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Manarola_Cinque_Terre.jpg/640px-Manarola_Cinque_Terre.jpg",
+        "urlUfficiale": "https://www.parconazionale5terre.it"
+      }
+    ]
+  },
+  {
+    "id": "ZONA-PORTOVENERE",
+    "zona": "Portovenere - Palmaria",
+    "latCentro": 44.0500,
+    "lonCentro": 9.8500,
+    "raggioKm": 10,
+    "poi": [
+      {
+        "id": "POI-PORTOVENERE",
+        "nome": "Chiesa di San Pietro a Portovenere",
+        "lat": 44.0509,
+        "lon": 9.8346,
+        "descrizione": "Suggestiva chiesa a picco sul mare.",
+        "immagineURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Portovenere_San_Pietro.jpg/640px-Portovenere_San_Pietro.jpg",
+        "urlUfficiale": "https://www.comune.portovenere.sp.it"
       }
     ]
   }
